@@ -1,1 +1,1 @@
-<h1>I am a new index file and I got edited in github</h2>
+<h1>I am a new index file and I got edited in github.</h2>
